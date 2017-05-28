@@ -1,0 +1,11 @@
+{
+  "name": "grubhogger",
+  "description": "A simple multiplayer game",
+  "scripts": {
+    "build": "gulp build",
+    "start": "gulp run",
+    "watch": "gulp watch",
+    "test": "gulp test"
+  },
+  "repository": "https://github.com/keerthana19m/"
+}
